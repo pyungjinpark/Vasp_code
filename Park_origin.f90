@@ -1,3 +1,5 @@
+!test
+
 !123456     
       real, allocatable :: eigup(:,:),eigdn(:,:),feigup(:,:)
       real, allocatable :: feigdn(:,:),xrk(:,:), xk(:,:), kval(:)
